@@ -205,7 +205,7 @@ body{font-size:16px;}.verve_blog_uppercased {text-transform:uppercase;}.vrv_drop
                         <div class="clearfix"></div>
                         <div id="vrv_mobile_sidebar" class="header_stack"><div id="pirenko-social-widget-1" class="widget-1 widget-last widget pirenko-social-widget header_stack"><div class="widget-1 widget-last widget_inner">			<div class="pirenko_social minimal_bw">
 				<div class="pirenko_social_inner">
-				<div class="social_img_wrp verve_socialink prk_bordered verve-facebook"><a href="https://www.facebook.com/AlDawaaCare" title="Facebook" target='_blank'  data-color="#1f69b3"><div class="prk_minimal_icon verve-facebook fa fa-facebook"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-instagram"><a href="https://www.instagram.com/AlDawaaCare/" title="Instagram" target='_blank'  data-color="#3f729b"><div class="prk_minimal_icon verve-instagram mdi-instagram"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-linkedin"><a href="https://www.linkedin.com/company/dmsco-inc-" title="Linkedin" target='_blank'  data-color="#1a7696"><div class="prk_minimal_icon verve-linkedin fa fa-linkedin"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-twitter"><a href="https://twitter.com/AlDawaaCare" title="Twitter" target='_blank'  data-color="#43b3e5"><div class="prk_minimal_icon verve-twitter fa fa-twitter"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-youtube"><a href="http://www.youtube.com/channel/UCAWdqJUkZMgKnLnV2QpzknQ" title="Youtube" target='_blank'  data-color="#fb2d39"><div class="prk_minimal_icon verve-youtube mdi-youtube-play"></div></a></div>				</div>
+				<div class="social_img_wrp verve_socialink prk_bordered verve-facebook"><a href="https://www.instagram.com/AlDawaaCare/AlDawaaCare" title="Facebook" target='_blank'  data-color="#1f69b3"><div class="prk_minimal_icon verve-facebook fa fa-facebook"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-instagram"><a href="https://www.instagram.com/AlDawaaCare/" title="Instagram" target='_blank'  data-color="#3f729b"><div class="prk_minimal_icon verve-instagram mdi-instagram"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-linkedin"><a href="https://www.linkedin.com/company/dmsco-inc-company/dmsco-inc-" title="Linkedin" target='_blank'  data-color="#1a7696"><div class="prk_minimal_icon verve-linkedin fa fa-linkedin"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-twitter"><a href="https://twitter.com/AlDawaaCare" title="Twitter" target='_blank'  data-color="#43b3e5"><div class="prk_minimal_icon verve-twitter fa fa-twitter"></div></a></div><div class="social_img_wrp verve_socialink prk_bordered verve-youtube"><a href="http://www.youtube.com/channel/UCAWdqJUkZMgKnLnV2QpzknQ" title="Youtube" target='_blank'  data-color="#fb2d39"><div class="prk_minimal_icon verve-youtube mdi-youtube-play"></div></a></div>				</div>
 			</div>
 			</div><div class="clearfix"></div></div></div>                </div>
             </div>
@@ -224,7 +224,7 @@ body{font-size:16px;}.verve_blog_uppercased {text-transform:uppercase;}.vrv_drop
             <div id="vrv_lower">
                             <div id="menu_social_nets" class="vrv_bicon">
                 <ul class="unstyled">
-                                    <li><a href="https://www.facebook.com/AlDawaaCare" target="_blank" data-color="#1f69b3">
+                                    <li><a href="https://www.instagram.com/AlDawaaCare/AlDawaaCare" target="_blank" data-color="#1f69b3">
                         <div class="fa fa-facebook-official"></div>
                     </a></li>
                                         <li><a href="https://www.instagram.com/AlDawaaCare/" target="_blank" data-color="#547FA2">
@@ -236,7 +236,7 @@ body{font-size:16px;}.verve_blog_uppercased {text-transform:uppercase;}.vrv_drop
                                         <li><a href="http://www.youtube.com/channel/UCAWdqJUkZMgKnLnV2QpzknQ" target="_blank" data-color="#fb2d39">
                         <div class="fa fa-youtube"></div>
                     </a></li>
-                                        <li><a href="https://www.linkedin.com/company/dmsco-inc-" target="_blank" data-color="#1a7696">
+                                        <li><a href="https://www.linkedin.com/company/dmsco-inc-company/dmsco-inc-" target="_blank" data-color="#1a7696">
                         <div class="fa fa-linkedin-square"></div>
                     </a></li>
                                     </ul>
